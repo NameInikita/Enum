@@ -1,0 +1,2 @@
+C:\Users\NameInikita\Documents\GIT\Премия_Enum_Generic\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\NameInikita\Documents\GIT\Премия_Enum_Generic\Enum_Generic_-.git\bin\Debug\ConsoleApplication1.exe.config
